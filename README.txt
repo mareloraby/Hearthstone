@@ -11,7 +11,7 @@
 	
 	When two Heroes have been selected the match can start by clicking on the "Start Game" button that appears.
 
-	----------------------------------------------------------------------------------------------------------------------------------------
+	------------------------------------------------------------------------------
 	
 	*Game Setup:
 	
@@ -30,13 +30,13 @@
 	
 	Enjoy!!
 		
-	----------------------------------------------------------------------------------------------------------------------------------------
+	------------------------------------------------------------------------------
 	
 	*To play a card from CurrentPlayer hand:
 	
 	Select a card you want to play from hand and press "Summon Minion" button that appears on the left of CurrentPlayer field.
 	
-	----------------------------------------------------------------------------------------------------------------------------------------
+	------------------------------------------------------------------------------
 	
 	*To attack with a Minion on field:
 	
@@ -44,7 +44,8 @@
 	Or attack the opponent's Hero by pressing on the Hero's photo in the right panel.
 	
 	
-	----------------------------------------------------------------------------------------------------------------------------------------
+	------------------------------------------------------------------------------
+
 	
 	*To Cast a Spell:
 	
@@ -57,8 +58,9 @@
 	
 		Leeching Spell & Minion Target Spell:
 		Select the Spell Card, press Cast Spell Button that appears on the left of the CurrentPlayer field then press on a Minion to cast on.
-	
-	----------------------------------------------------------------------------------------------------------------------------------------
+		
+	------------------------------------------------------------------------------
+
 	
 	*To Play Hero Power:
 		
@@ -78,8 +80,9 @@
 		
 		Warlock:
 		Press on the icon displayed on the right panel representing Hero's special ability, and power will take effect.
-	
-	----------------------------------------------------------------------------------------------------------------------------------------
+		
+	------------------------------------------------------------------------------
+
 	
 	*To End Turn:
 	Press the "End Turn" button on the right vertical panel.
